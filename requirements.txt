@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tqdm
+pandas
+python-multipart
+python-dotenv
+sentence-transformers
+qdrant-client
