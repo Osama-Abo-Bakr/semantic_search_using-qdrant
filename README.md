@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` file for your FastAPI application:
-
-```markdown
 # FastAPI Semantic Search API
 
 This FastAPI application provides endpoints for semantic search and managing text records in a vector database. The application supports searching for similar records, inserting new records, and deleting existing ones.
